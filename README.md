@@ -1,3 +1,17 @@
+Fitur =
+Halaman Login
+Halaman Todo
+Redux (action, Reducer, Type, store)
+
+link Github = https://github.com/fahmimtz/mock-test
+Link Vercel = 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
